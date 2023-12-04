@@ -35,7 +35,7 @@ Before running the script, ensure you have the following installed:
    OR
    **Run In Background:**
    ```bash
-   python main.py
+   pythonw main.py
    ```
 
 ## How To Stop Running Script In Background
