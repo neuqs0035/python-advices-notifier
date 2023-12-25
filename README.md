@@ -24,7 +24,7 @@ Before running the script, ensure you have the following installed:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/bhavya416/python-advices-notifier.git
+   git clone https://github.com/neuqs0035/python-advices-notifier.git
    cd python-advices-notifier
    ```
 2. **Run Normally:**
